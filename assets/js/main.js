@@ -646,6 +646,8 @@ if ($(".js-profile-overlay")) {
   ];
   ["scroll", "pageshow"].forEach((evt) => {
     window.addEventListener(evt, () => {
+      if (!profileOverlay || !profileOffsetTop) return;
+      
       let cal = profileOffsetTop.offsetHeight;
       let value = 0 + window.scrollY / cal;
       value >= 0.8
