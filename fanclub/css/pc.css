@@ -1,0 +1,47 @@
+#fanclub-about a { color: #28b; }
+
+h2 { display: none; }
+
+#section { padding: 10px; }
+
+#contents-nav a { font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif; }
+
+#movie { position: absolute; top: 10px; left: 10px; width: 290px; }
+
+#lead { text-align: center; }
+#lead table { width: 100%; border: 0; }
+#lead td#pta-list { padding: 20px 10px 0 0; border: 0; }
+#lead td#world-list { padding: 20px 0 0 10px; border: 0; }
+#lead td div { border: 5px solid #eee; padding: 10px; }
+#lead li a { font-size: 12px; padding: 10px; margin: 10px; background: url(/pta/common/img/article-title.png) repeat-x; }
+#lead td#pta-list li a { background-color: #2a9800; }
+#lead td#world-list li a { background-color: #0092ab; }
+#lead li a:hover { background-image: none; }
+#lead p { background: #eee; padding: 10px; }
+#lead a.logo { background: none; margin: 0; padding: 0; }
+
+
+.article { margin-left: 320px; padding: 0 0 30px 0; }
+.article p.back { padding: 30px; text-align: center; }
+.article h3 { background: #eee; border-top: 1px solid #000; border-bottom: 1px solid #ccc; padding: 5px; margin-bottom: 20px; }
+.article strong { display: block; background: #666; padding: 10px; color: #fff; text-align: center; border-radius: 5px 5px 0 0; }
+.article table { border-top: 1px solid #666; margin-bottom: 30px; }
+.article th { width: 280px; padding: 10px 0; border-bottom: 1px solid; text-align: center; }
+.article th.n1 { background-color: #fee3d8; border-color: #f9733c; color: #cf5321; }
+.article th.n2 { background-color: #fcdddc; border-color: #ee564e; color: #c2312a; }
+.article th.n3 { background-color: #fbe6ef; border-color: #d4779e; color: #b4235f; }
+.article th.n4 { background-color: #eae6ff; border-color: #9582ff; color: #4b35c5; }
+.article th.n5 { background-color: #d4f0fc; border-color: #28b4ee; color: #187ca7; }
+.article th.n6 { background-color: #f9f8d4; border-color: #e0da28; color: #949012; }
+.article th.n7 { background-color: #fcf2d4; border-color: #f0be27; color: #8f7116; }
+.article th.n8 { background-color: #eef8d6; border-color: #a8db30; color: #6a8f14; }
+.article td { padding: 10px 0 10px 20px; border-bottom: 1px solid #ccc; }
+
+.article a.block { background: url(/pta/common/img/article-title.png) repeat-x; color: #fff; padding: 3px 0; display: block; margin: 15px 80px; text-align: center; border-radius: 5px; text-decoration: none !important; font-size: 16px; }
+.article a.regist { background-color: #f70; padding: 20px 0; }
+.article a.regist:hover { background-color: #fc3; }
+.article a.faq { background-color: #333; margin: 15px 150px; padding: 2px 0; }
+.article a.faq:hover { background-color: #666; }
+.article a.block span { font-size: 12px; padding-left: 10px; }
+
+#pagination { background: #fff; text-align: center; margin: 0 10px; padding-top: 30px; border-top: 1px solid #000; }

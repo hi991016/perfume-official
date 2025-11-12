@@ -1,0 +1,1 @@
+$(function(){$(window).resize(function(){$('iframe[src*="youtube.com/embed"], iframe[src*="brightcove.net"]').each(function(){$(this).height($(this).width()/16*9)})}).resize()}),$(function(){$("#wrap ~ * a").each(function(){$(this).attr("target","_blank")})});

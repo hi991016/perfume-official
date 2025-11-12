@@ -1,0 +1,36 @@
+#fanclub-about a { color: #28b; }
+
+#contents-nav { display: none; }
+
+#movie { text-align: center; padding-bottom: 20px; }
+
+#lead table { width: 100%; border: 0; }
+#lead td#pta-list { padding: 20px 5px 0 0; border: 0; }
+#lead td#world-list { padding: 20px 0 0 5px; border: 0; }
+#lead td div { border: 5px solid #eee; padding: 10px; }
+#lead a.logo { background: none; margin: 0; padding: 0; }
+#lead ul { display: none; }
+#lead .list { margin: 15px 0 0; text-align: center; font-size: 10px; border: 5px solid #eee; width: 135px; color: #28b; }
+#lead .list img { height: 60px; }
+#lead .list h4 { border-top: 1px dotted #ccc; margin-top: 5px; padding-top: 5px; }
+#lead div { padding-bottom: 0; }
+
+.article p.back { padding-bottom: 30px; text-align: center; }
+.article h3 { background: #eee; border-top: 1px solid #000; border-bottom: 1px solid #ccc; padding: 5px; margin-bottom: 15px; }
+.article div { padding-bottom: 30px; }
+.article strong { display: block; background: #666; padding: 10px; color: #fff; text-align: center; border-radius: 5px 5px 0 0; }
+.article table { border-top: 1px solid #666; margin-bottom: 30px; }
+.article th { padding: 10px; width: 110px; border-bottom: 1px solid; text-align: center; }
+.article th.n1 { background-color: #fee3d8; border-color: #f9733c; color: #cf5321; }
+.article th.n2 { background-color: #fcdddc; border-color: #ee564e; color: #c2312a; }
+.article th.n3 { background-color: #fbe6ef; border-color: #d4779e; color: #b4235f; }
+.article th.n4 { background-color: #eae6ff; border-color: #9582ff; color: #4b35c5; }
+.article th.n5 { background-color: #d4f0fc; border-color: #28b4ee; color: #187ca7; }
+.article th.n6 { background-color: #f9f8d4; border-color: #e0da28; color: #949012; }
+.article th.n7 { background-color: #fcf2d4; border-color: #f0be27; color: #8f7116; }
+.article th.n8 { background-color: #eef8d6; border-color: #a8db30; color: #6a8f14; }
+.article td { padding: 10px 0 10px 20px; border-bottom: 1px solid #ccc; }
+
+.article a.block { background: #f70 url(/pta/common/img/article-title.png) repeat-x; color: #fff; padding: 20px 0; display: block; margin: 10px 0; text-align: center; border-radius: 5px; text-decoration: none; font-size: 14px; }
+.article a.faq { background-color: #333; padding: 3px 0; margin: 10px 50px; }
+.article a.block span { font-size: 10px; display: block; }

@@ -1,0 +1,146 @@
+#nav a:hover,#youtube a:hover,a{color:#28b}#wrap h1{border-bottom:1px solid #000}#wrap #nav{font-family:'Strait';line-height:1;text-align:left;padding:10px 0}#wrap #nav li{display:inline}#wrap #nav a{color:#000;padding-right:20px;text-decoration:none}#wrap #fanclub-nav{font-family:'Strait';position:absolute}#wrap #fanclub-nav a{color:#28b;text-decoration:none}#wrap #fanclub-nav img{width:40px}#wrap #section{text-align:left;position:relative}#wrap h2{display:none}#wrap #contents-nav li{display:inline-block}#wrap #contents-nav li a{border:1px solid #ddd;color:#000;font-family:'Strait';text-decoration:none}#wrap #contents-nav li.this a{background:black !important;color:#fff;border-color:black;position:relative}#wrap #mode{clear:both;text-align:center;padding:7% 0 0}#wrap #mode a{font-family:'Strait';background:#e4e4e4;border-radius:5px;display:inline-block;overflow:hidden;text-decoration:none;text-align:center;font-size:12px;width:50%}#wrap #mode a span{float:left;width:50%;display:block;padding:3px 0;border-radius:5px;color:black}#wrap #mode a span.this{background:black;color:white}.pc #wrap #mode a{width:40%;border-radius:10px}.pc #wrap #mode a span{font-size:20px;padding:5px 0;border-radius:10px}#wrap #footer a{color:#666;text-decoration:none}#wrap .past_article{text-align:center;padding:3px;border:1px solid #999;background-color:#9a9c9a;width:150px;float:right}#wrap .past_article a{color:#fff;font-size:90%}#wrap .article hr{border-top:1px solid #ccc;margin:10px 0}#wrap #header-info{margin-bottom:10px}#wrap #header-info a{display:block;background:black;padding:5px;text-align:center;color:white;text-decoration:none}#wrap #header-info a:hover{background:#28b}#wrap #header-info a span{display:inline-block;padding:0 5px}#wrap .al_entries .txt{margin-top:0px;padding-top:0px}#wrap .al_entries .txt2{margin-top:0px;padding-top:10px}#wrap .al_entries .phot{padding:10px 0 10px 0;margin-top:0px}#wrap .al_entries .imgL{text-align:left;margin-right:20px}#wrap .al_entries .imgC img{margin:0 auto}#wrap .al_entries .imgR img{float:right}code{background:none !important;display:none !important}.sp .pc-only,.pc .sp-only{display:none !important}#footer a{color:inherit}#wrap a:hover{text-decoration:none}#wrap #nav-twitter-toggle{display:none;text-align:center;padding-bottom:20px;font-family:'Strait';overflow:hidden;margin:0}#wrap #nav-twitter-toggle li{background:white}.pc #wrap #nav-twitter-toggle li{display:inline-block}.sp #wrap #nav-twitter-toggle li{float:left;width:50%;padding-top:20px}#wrap #nav-twitter-toggle li a{display:block;margin:1px;text-decoration:none;font-size:13px;line-height:1 !important;color:#1da1f2 !important;border:1px solid #1da1f2;border-radius:2px;padding:5px 10px !important;vertical-align:middle}#wrap #nav-twitter-toggle li a:hover{background:#1da1f2 !important;color:white !important}.pc #wrap{width:960px;margin:0 auto;padding:20px 0;position:relative;display:block}.pc #wrap .a{cursor:pointer}.pc #wrap h1{text-align:left;margin:0 10px;height:53px}.pc #wrap #nav{margin:7px 0;font-size:18px}.pc #wrap #nav a{padding:0 10px;display:inline-block;line-height:22px}.pc #wrap #nav a img{width:20px;margin-bottom:2px}.pc #wrap #fanclub-nav{top:15px;right:10px;width:500px;text-align:right}.pc #wrap #fanclub-nav li{display:inline;font-size:14px}.pc #wrap #fanclub-nav img{margin:0 5px 0 20px;width:40px !important}.pc #wrap #fanclub-topics{position:absolute;top:65px;right:10px;text-align:right}.pc #wrap #fanclub-topics li{color:#999;padding-left:20px;background:#fff;line-height:18px}.pc #wrap #contents-nav{text-align:right;height:50px}.pc #wrap #contents-nav a{padding:5px 10px}.pc #wrap #contents-nav a:hover{opacity:0.8}.pc #wrap .article div a{text-decoration:underline;padding:10px 0}.pc #wrap #pagination li{display:inline}.pc #wrap #pagination a{padding:10px}.pc #wrap #footer{clear:both;padding:20px 0;text-align:center}.pc #wrap #footer #pagetop{text-align:right}.pc #wrap #footer a{padding:10px}.pc #wrap #lang{text-align:left;position:absolute;top:30px;left:200px;font-family:'Strait';line-height:1}.pc #wrap #lang p{font-size:10px;height:14px}.pc #wrap #lang ul{background:#e4e4e4;border-radius:5px;overflow:hidden}.pc #wrap #lang ul li{float:left;width:100px}.pc #wrap #lang ul li a{display:block;line-height:19px;border-radius:5px;color:black;text-decoration:none;text-align:center;font-size:12px}.pc #wrap #lang ul li a:hover{opacity:0.8}.pc #wrap #lang ul li.this a{background:black;color:white}.pc #wrap #lang ul li.this a:hover{opacity:1}.pc #wrap #lang ul li#lang-jpn a:before{content:"JAPANESE"}.pc #wrap #lang ul li#lang-end a:before{content:"ENGLISH"}.pc #wrap #google_translate_element{position:absolute;top:88px;right:10px}.pc #wrap #header-info{padding:0 10px}.sp #wrap{padding:0 10px 20px;overflow:hidden;word-wrap:break-word;display:block}.sp #wrap img{max-width:300px;height:auto}.sp #wrap h1{text-align:left;padding:2px 0}.sp #wrap h1 img{width:80px}.sp #wrap #nav{clear:both;font-size:16px;text-align:center;padding:20px 0}@media only screen and (max-width: 400px){.sp #wrap #nav{font-size:14px}}@media only screen and (max-width: 340px){.sp #wrap #nav{font-size:12px}}.sp #wrap #nav a{display:inline-block;padding:3px}.sp #wrap #nav a img{width:16px;margin-bottom:2px}@media only screen and (max-width: 400px){.sp #wrap #nav a img{width:14px}}@media only screen and (max-width: 340px){.sp #wrap #nav a img{width:12px}}.sp #wrap #nav li.icon a{padding-right:2px}.sp #wrap #nav li.icon+li.icon a{padding-left:2px}.sp #wrap #nav li#nav-top{display:none}.sp #wrap #fanclub-nav{top:0;right:8px;background:white;border-left:7px solid white}.sp #wrap #fanclub-nav li{text-align:center;width:40px;line-height:1;padding:4px 0;float:left;border-left:5px solid white}.sp #wrap #fanclub-nav li a{display:block;padding-bottom:6px;background:center bottom no-repeat;background-size:100%}.sp #wrap #fanclub-nav li a img{display:block;margin:0 auto 1px;width:40px}.sp #wrap #fanclub-nav li a span{display:none}.sp #wrap #fanclub-nav li#fanclub-about a{background-image:url(../../asset/img/fanclub-about-sp.png)}.sp #wrap #fanclub-nav li#fanclub-login a{background-image:url(../img/fanclub-login-sp.png)}.sp #wrap #fanclub-nav li#fanclub-world a{background-image:url(../img/fanclub-world-sp.png)}.sp #wrap #lang{text-align:left;position:absolute;top:7px;right:70px;font-family:'Strait';line-height:1}.sp #wrap #lang p{font-size:10px;height:14px}.sp #wrap #lang ul{background:#e4e4e4;border-radius:5px;overflow:hidden}.sp #wrap #lang ul li{float:left;width:36px}@media only screen and (min-width: 321px){.sp #wrap #lang ul li{width:45px}}.sp #wrap #lang ul li a{display:block;line-height:19px;border-radius:5px;color:black;text-decoration:none;text-align:center;font-size:12px}.sp #wrap #lang ul li.this a{background:black;color:white}.sp #wrap #lang ul li#lang-jpn a:before{content:"JPN"}.sp #wrap #lang ul li#lang-end a:before{content:"ENG"}.sp #wrap #contents-nav a{background:#eee}.sp #wrap #pagination{text-align:center;border-bottom:1px solid #000}.sp #wrap #pagination a{display:block;padding:15px 0;border-top:1px solid #000;text-decoration:none}.sp #wrap h2{text-align:center}.sp #wrap #footer{text-align:center}.sp #wrap #footer a{display:block;padding:15px 0}.sp #wrap #k a{display:none}.sp #wrap #header-info{font-size:10px}.sp #wrap iframe[src*="brightcove.net"]{width:100% !important;border:0 !important}#footer,#wrap *{font-family:'Strait' !important}#lang p,#lang ul{padding:0 !important;margin:0 !important}.pc #wrap h1{padding-bottom:53px !important}.pc #wrap h1 img{margin-bottom:9px !important}.sp #fanclub ul{text-align:center !important;overflow:visible !important}.sp #fanclub ul li{padding-left:0 !important;margin-left:0 !important}.sp h1{padding-bottom:4px !important}.sp #fanclub-nav li{border-left:0 !important}.sp #nav{padding:0 !important;margin:0 !important}a:hover{text-decoration:none}.ib{display:inline-block}@media only screen and (max-width: 639px){.sp-b{display:block !important}}.uk-label{background:#f7dd22 !important}.uk-label.world{background:#55b899 !important}.hide{display:none}@media only screen and (max-width: 639px){iframe{width:100%}}#wrap{display:block}#header #movie p.button a{border:6px double black}#header .nazotoki img{width:100%;max-width:640px}#header .nazotoki .share a{text-decoration:none;background:#1DA1F2}@media only screen and (max-width: 639px){#header p.lead,#header p.more{text-align:left}}#header ul.note.small *{color:red}@media only screen and (max-width: 639px){#header ul.note.small{text-align:left}}#header ul.note.small a{font-weight:bold}p.button{text-align:center}p.button a{background:black;color:white;padding:0.5em 0;display:inline-block;text-decoration:none;transform:skew(15deg)}@media only screen and (min-width: 640px){p.button a{width:100%;max-width:400px}}@media only screen and (max-width: 639px){p.button a{display:block;text-align:center}}p.button a span{display:inline-block;transform:skew(-15deg)}#main{overflow:hidden}#main a{font-weight:bold}#main #main-ticket .image{text-align:right;transform-origin:bottom right}#main #main-other .white{background:none !important}#main #main-regist .white{background:none !important}#main #main-more .white{max-width:1000px;margin:0 auto}#banner{max-width:1000px;margin:0 auto}@media only screen and (min-width: 1001px){#banner{margin-top:70px}}@media only screen and (min-width: 640px){.sp-only{display:none !important}}@media only screen and (max-width: 639px){.pc-only{display:none !important}}[uk-parallax]{transition-duration:1s}body{line-height:1.8;background:white;color:black;text-align:center}.small{font-size:80%}.xsmall{font-size:64%}.note{list-style:0;margin-left:1em;text-indent:-1em;padding-left:1em}.note li{margin:0;padding:0}a{color:inherit;text-decoration:underline}a:hover{color:inherit}@media only screen and (min-width: 640px){a:hover{opacity:0.7}}body,p,ul,ol,h1,h2,h3,h4{font-family:"Noto Sans JP", sans-serif}
+
+/*------------------------------------------------------------
+	Reset
+------------------------------------------------------------*/
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, dialog, figure, footer, header,
+nav, section,
+time, mark, audio, video {
+  font-size: 1em;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, main {
+  display: block;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  -webkit-text-size-adjust: 100%;
+}
+
+body, table,
+input, textarea, select, option,
+h1, h2, h3, h4, h5, h6 {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+}
+
+table,
+input, textarea, select, option {
+  line-height: 1.1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+:focus {
+  outline: 0;
+}
+
+ins {
+  text-decoration: none;
+}
+
+del {
+  text-decoration: line-through;
+}
+
+img {
+  vertical-align: top;
+}
+
+a,
+a img {
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover,
+a:hover img {
+  opacity: 0.80;
+  filter: alpha(opacity=80);
+  -ms-filter: "alpha(opacity=80)";
+}
+
+img {
+  max-width: 100%;
+}
+
+.tab-only {
+  display: none !important;
+}
+
+.sp-only {
+  display: none !important;
+}
+
+.hide-on-pc {
+  display: none !important;
+}
+
+@media only screen and (max-width: 1024px) {
+  .pc-only {
+    display: none !important;
+  }
+  .tab-only {
+    display: block !important;
+  }
+  .hide-on-pc {
+    display: block !important;
+  }
+  .hide-on-tab {
+    display: none !important;
+  }
+}
+
+@media only screen and (max-width: 560px) {
+  .pc-only {
+    display: none !important;
+  }
+  .tab-only {
+    display: none !important;
+  }
+  .sp-only {
+    display: block !important;
+  }
+  .hide-on-tab {
+    display: block !important;
+  }
+  .hide-on-sp {
+    display: none !important;
+  }
+}
+
